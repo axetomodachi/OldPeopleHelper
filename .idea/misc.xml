@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioProjects/OldPeopleHelper/app/src/main/res/layout/activity_developer_package_prefs.xml" value="0.36666666666666664" />
-        <entry key="..\:/AndroidStudioProjects/OldPeopleHelper/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/OldPeopleHelper/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/AndroidStudioProjects/OldPeopleHelper/app/src/main/res/layout/activity_news_viewer.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProjects/OldPeopleHelper/app/src/main/res/layout/activity_save_contacts.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/OldPeopleHelper/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProjects/OldPeopleHelper/app/src/main/res/layout/activity_whatsapp_message.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProjects/OldPeopleHelper/app/src/main/res/layout/activity_youtube_search.xml" value="0.36666666666666664" />
       </map>
