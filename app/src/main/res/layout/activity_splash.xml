@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/splash_image" />
+        tools:srcCompat="@drawable/splash_image" />
 
     <TextView
         android:id="@+id/textView8"
