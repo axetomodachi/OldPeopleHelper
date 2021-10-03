@@ -29,4 +29,26 @@
         app:layout_constraintStart_toStartOf="@+id/wtsp_msg"
         app:layout_constraintTop_toBottomOf="@+id/wtsp_msg"
         app:layout_constraintVertical_bias="0.07999998" />
+
+    <Button
+        android:id="@+id/wtsp_sendA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Audio"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/textView10"
+        app:layout_constraintStart_toStartOf="@+id/textView10"
+        app:layout_constraintTop_toBottomOf="@+id/textView10"
+        app:layout_constraintVertical_bias="0.23000002" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="----------------------------------OR----------------------------------"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/wtsp_send"
+        app:layout_constraintStart_toStartOf="@+id/wtsp_send"
+        app:layout_constraintTop_toBottomOf="@+id/wtsp_send"
+        app:layout_constraintVertical_bias="0.120000005" />
 </androidx.constraintlayout.widget.ConstraintLayout>
