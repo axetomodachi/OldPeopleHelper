@@ -34,7 +34,7 @@
         android:id="@+id/wtsp_sendA"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Send Audio"
+        android:text="Open Whatsapp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/textView10"
         app:layout_constraintStart_toStartOf="@+id/textView10"

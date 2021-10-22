@@ -195,4 +195,15 @@
         app:layout_constraintStart_toEndOf="@+id/ig"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
+    <ImageButton
+        android:id="@+id/info_m"
+        android:layout_width="33dp"
+        android:layout_height="32dp"
+        app:layout_constraintBottom_toBottomOf="@+id/refresh"
+        app:layout_constraintEnd_toStartOf="@+id/refresh"
+        app:layout_constraintHorizontal_bias="0.23"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/refresh"
+        app:srcCompat="@drawable/ic_round_info_24" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
